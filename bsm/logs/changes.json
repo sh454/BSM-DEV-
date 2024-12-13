@@ -1,0 +1,86 @@
+[
+    {
+        "event_type": "created",
+        "src_path": "/home/ubuntu/bsm/test/ornek.txt",
+        "is_directory": false,
+        "timestamp": "2024-12-14 00:32:10"
+    },
+    {
+        "event_type": "modified",
+        "src_path": "/home/ubuntu/bsm/test",
+        "is_directory": true,
+        "timestamp": "2024-12-14 00:32:10"
+    },
+    {
+        "event_type": "opened",
+        "src_path": "/home/ubuntu/bsm/test/ornek.txt",
+        "is_directory": false,
+        "timestamp": "2024-12-14 00:32:10"
+    },
+    {
+        "event_type": "modified",
+        "src_path": "/home/ubuntu/bsm/test/ornek.txt",
+        "is_directory": false,
+        "timestamp": "2024-12-14 00:32:10"
+    },
+    {
+        "event_type": "closed",
+        "src_path": "/home/ubuntu/bsm/test/ornek.txt",
+        "is_directory": false,
+        "timestamp": "2024-12-14 00:32:10"
+    },
+    {
+        "event_type": "modified",
+        "src_path": "/home/ubuntu/bsm/test",
+        "is_directory": true,
+        "timestamp": "2024-12-14 00:32:10"
+    },
+    {
+        "event_type": "opened",
+        "src_path": "/home/ubuntu/bsm/test/ornek.txt",
+        "is_directory": false,
+        "timestamp": "2024-12-14 00:33:19"
+    },
+    {
+        "event_type": "modified",
+        "src_path": "/home/ubuntu/bsm/test/ornek.txt",
+        "is_directory": false,
+        "timestamp": "2024-12-14 00:33:19"
+    },
+    {
+        "event_type": "closed",
+        "src_path": "/home/ubuntu/bsm/test/ornek.txt",
+        "is_directory": false,
+        "timestamp": "2024-12-14 00:33:19"
+    },
+    {
+        "event_type": "modified",
+        "src_path": "/home/ubuntu/bsm/test",
+        "is_directory": true,
+        "timestamp": "2024-12-14 00:33:19"
+    },
+    {
+        "event_type": "created",
+        "src_path": "/home/ubuntu/bsm/test/sinav",
+        "is_directory": true,
+        "timestamp": "2024-12-14 00:36:20"
+    },
+    {
+        "event_type": "modified",
+        "src_path": "/home/ubuntu/bsm/test",
+        "is_directory": true,
+        "timestamp": "2024-12-14 00:36:20"
+    },
+    {
+        "event_type": "deleted",
+        "src_path": "/home/ubuntu/bsm/test/sinav",
+        "is_directory": true,
+        "timestamp": "2024-12-14 00:38:32"
+    },
+    {
+        "event_type": "modified",
+        "src_path": "/home/ubuntu/bsm/test",
+        "is_directory": true,
+        "timestamp": "2024-12-14 00:38:32"
+    }
+]
